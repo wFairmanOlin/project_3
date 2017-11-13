@@ -1,0 +1,9 @@
+-save document
+- git add 
+-- git add * (adds all the changed files)
+-- git add specific_file_name (adds specific file)
+-git commit -m "put a message here"
+-git push origin master
+
+To pull From Repo
+- git pull origin master
